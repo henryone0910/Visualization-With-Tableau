@@ -14,5 +14,7 @@ Phân tích và khám phá dữ liệu Covid trên toàn thế giới.
 Trực quan để làm sinh động dữ liệu và hiểu rõ hơn về dữ liệu.
 # Evaluation
 Score: 9.5/10
+
 Tool: Visualization.
+
 SourceCode: python embedded.
