@@ -15,6 +15,6 @@ Trực quan để làm sinh động dữ liệu và hiểu rõ hơn về dữ li
 # Evaluation
 Score: 9.5/10
 
-Tool: Visualization.
+Tool: Tableau.
 
 SourceCode: python embedded.
